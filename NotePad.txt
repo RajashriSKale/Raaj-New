@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 hello raaj
+=======
+hello git programm
+>>>>>>> 5c24156d6b53cef9c35ab16d4474d90b9820cc35
